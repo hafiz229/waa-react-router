@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Understanding React Hooks",
+      "body": "Updated React hooks are functions that let you use state and other React features in function components..."
+    },
+    {
+      "id": "2",
+      "title": "Introduction to JavaScript ES6",
+      "body": "ES6 introduced several new features like arrow functions, template literals, and destructuring..."
+    },
+    {
+      "id": "3",
+      "title": "CSS Grid vs Flexbox",
+      "body": "CSS Grid and Flexbox are two powerful layout systems. Understanding when to use which can improve your web designs..."
+    }
+  ]
+}
